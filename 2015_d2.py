@@ -21,4 +21,7 @@ for row in fileobj:
 # length, width, height
 # print(presents)
 
-print("The elves should order " + str(paper_needed) + ' square feet of wrapping paper!')
+print("Part 1: The elves should order " + str(paper_needed) + ' square feet of wrapping paper!')
+
+# Todo: Solve part two!
+
